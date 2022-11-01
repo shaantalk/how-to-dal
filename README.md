@@ -1,6 +1,3 @@
-# How to Dal
-
-
 ### Steps from application to admit for Dal's MACS program
 1. Apply
 2. After 2-5 days you will get a mail for GradApp. Upload your docs and add your referee details for LORs
