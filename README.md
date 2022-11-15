@@ -6,6 +6,17 @@
 5. Within 2-3 days you will be recommended and you will get a mail from the CS Faculty
 6. After 2-3 days to a week of recommendation you will get the offer letter. They send out offer letters only on Tuesdays and Thrusdays
 
+### Got recommended ? But don't know you will get admit or not ?
+
+This is all we know about who is 100% getting offer letter
+
+Only if all three of the below conditions r satisfied
+
+1. Got recommendation letter via mail
+2. GradApp portal open with "recommendation" tab selected
+3. DalOnline portal says "Deposit Requested"
+
+
 ### Important Links
  1. [GradApp](https://login.cs.dal.ca/cas/login?service=https%3A//graduate.cs.dal.ca/casservice) where you can upload your documents, check LOR status, see that you got recommendation or not
  2. [Dal Online](https://dalonline.dal.ca/PROD/bwskasta.P_DispStatusSaradap?appno=1) is where you first applied. Once you get recommended by CS Faculty your status will be shown here.
