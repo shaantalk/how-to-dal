@@ -46,3 +46,12 @@ NAME
 2. Graduate Studies graduate.studies@dal.ca
 3. CS Faculty graduate@cs.dal.ca
 4. Registrar registrar@dal.ca
+5. If ID get blocked mail here admiss@dal.ca
+
+
+## Frequently asked questions
+
+1. Got offer letter, but can I pay the fees now?
+
+Dal will mail us the fee structure of Fall 2023 intake soon but we can start paying from now. On mailing about this to the accounts department, they have send us the previous Fall intake's fee structure. If you need this, we can send in the admit only group.
+
