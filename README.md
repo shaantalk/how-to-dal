@@ -4,7 +4,7 @@
 3. After 2-3 days you will get a mail for setting up the interview. Choose a date in the link provided in the mail.
 4. Take the interview
 5. Within 2-3 days you will be recommended and you will get a mail from the CS Faculty
-6. After 2-3 days to a week of recommendation you will get the offer letter. They send out offer letters only on Tuesdays and Thrusdays
+6. After 2-3 days to a week of recommendation you will get the offer letter. They send out offer letters only on Tuesdays and Thrusdays ( AST Timezone )
 
 ### Got recommended ? But don't know you will get admit or not ?
 
@@ -55,3 +55,8 @@ NAME
 
 Dal will mail us the fee structure of Fall 2023 intake soon but we can start paying from now. On mailing about this to the accounts department, they have send us the previous Fall intake's fee structure. If you need this, we can send in the admit only group.
 
+
+
+## Notes
+
+Please keep in mind the different timezones and calculate "working day" or date/time.
