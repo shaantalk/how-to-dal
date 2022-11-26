@@ -16,6 +16,14 @@ Only if all three of the below conditions r satisfied
 2. GradApp portal open with "recommendation" tab selected
 3. DalOnline portal says "Deposit Requested"
 
+### For rejection cases this is what I have observed for MACS program.
+
+Scene 1:
+GradApp portal status goes from under review to direct recommendation without interview.
+
+Scene 2:
+GradApp portal goes from under review to recommendation status but haven't got any email with recommendation letter pdf.
+
 
 ### Important Links
  1. [GradApp](https://login.cs.dal.ca/cas/login?service=https%3A//graduate.cs.dal.ca/casservice) where you can upload your documents, check LOR status, see that you got recommendation or not
