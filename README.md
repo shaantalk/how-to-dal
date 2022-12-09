@@ -1,37 +1,19 @@
+### Topic wise sections
 <nav>
- <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
-  <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
-  <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
-  <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
-  <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
-  <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
-  <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
-  <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a> |
+ <a href="/imp_links/">Important Links</a> |
+ <a href="/imp_mail_ids/">Important Mail ID</a> |
+ <a href="/just_applied/">Just applied</a> |
+ <a href="/interview/">Interview</a> |
+ <a href="/got_recommended/">Just got recommended</a> |
+ <a href="/got_offer_letter/">Just for offer letter</a> |
+ <a href="/medical_test/">Medical Test</a> |
+ <a href="/loan/">Loan</a> |
+ <a href="/visa_process/">Visa Process</a> |
+ <a href="/ticket/">Tickets</a> |
+ <a href="/accomodation/">Accomodations</a> |
 </nav>
+
+## General Topics
 
 
 ### Steps from application to admit for Dal's MACS program
