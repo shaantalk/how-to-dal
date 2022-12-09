@@ -1,3 +1,39 @@
+<nav>
+ <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+  <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+  <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+  <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+  <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+  <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+  <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+  <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a> |
+</nav>
+
+
 ### Steps from application to admit for Dal's MACS program
 1. Apply
 2. After 2-5 days you will get a mail for GradApp. Upload your docs and add your referee details for LORs
