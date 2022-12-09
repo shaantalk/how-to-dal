@@ -1,6 +1,13 @@
+<style>
+ .disabled {
+  pointer-events: none;
+  color: grey;
+ }
+</style>
+
 ### Topic wise sections
 <nav>
- <a href="/imp_links/">Important Links</a> |
+ <a href="/imp_links/" class="disabled">Important Links</a> |
  <a href="/imp_mail_ids/">Important Mail ID</a> |
  <a href="/just_applied/">Just applied</a> |
  <a href="/interview/">Interview</a> |
