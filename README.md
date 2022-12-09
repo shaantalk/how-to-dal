@@ -2,7 +2,7 @@
 
 Disabled links have no content (ongoing work)
 
-[Important Links](imp_links.md)
+[Important Links](imp_links)
 
 <nav>
  <a href="/imp_links/">Important Links</a> |
