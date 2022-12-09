@@ -1,6 +1,13 @@
+---
+title: How to Dal
+filename: README.md
+--- 
+
 ### Topic wise sections
 
 Disabled links have no content (ongoing work)
+
+[Important Links](imp_links.md)
 
 <nav>
  <a href="/imp_links/">Important Links</a> |
@@ -15,6 +22,9 @@ Disabled links have no content (ongoing work)
  <a href="/ticket/" style="pointer-events: none;color: grey;">Tickets</a> |
  <a href="/accomodation/" style="pointer-events: none;color: grey;">Accomodations</a> |
 </nav>
+
+
+
 
 ## General Topics
 
