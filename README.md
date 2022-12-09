@@ -1,6 +1,9 @@
 ### Topic wise sections
+
+Disabled links have no content (ongoing work)
+
 <nav>
- <a href="/imp_links/" style="pointer-events: none;color: grey;">Important Links</a> |
+ <a href="/imp_links/">Important Links</a> |
  <a href="/imp_mail_ids/" style="pointer-events: none;color: grey;">Important Mail ID</a> |
  <a href="/just_applied/" style="pointer-events: none;color: grey;">Just applied</a> |
  <a href="/interview/" style="pointer-events: none;color: grey;">Interview</a> |
