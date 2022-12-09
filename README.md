@@ -1,8 +1,3 @@
----
-title: How to Dal
-filename: README.md
---- 
-
 ### Topic wise sections
 
 Disabled links have no content (ongoing work)
