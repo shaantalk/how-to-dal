@@ -1,23 +1,16 @@
-<style>
- .disabled {
-  pointer-events: none;
-  color: grey;
- }
-</style>
-
 ### Topic wise sections
 <nav>
- <a href="/imp_links/" class="disabled">Important Links</a> |
- <a href="/imp_mail_ids/">Important Mail ID</a> |
- <a href="/just_applied/">Just applied</a> |
- <a href="/interview/">Interview</a> |
- <a href="/got_recommended/">Just got recommended</a> |
- <a href="/got_offer_letter/">Just for offer letter</a> |
- <a href="/medical_test/">Medical Test</a> |
- <a href="/loan/">Loan</a> |
- <a href="/visa_process/">Visa Process</a> |
- <a href="/ticket/">Tickets</a> |
- <a href="/accomodation/">Accomodations</a> |
+ <a href="/imp_links/" style="pointer-events: none;color: grey;">Important Links</a> |
+ <a href="/imp_mail_ids/" style="pointer-events: none;color: grey;">Important Mail ID</a> |
+ <a href="/just_applied/" style="pointer-events: none;color: grey;">Just applied</a> |
+ <a href="/interview/" style="pointer-events: none;color: grey;">Interview</a> |
+ <a href="/got_recommended/" style="pointer-events: none;color: grey;">Just got recommended</a> |
+ <a href="/got_offer_letter/" style="pointer-events: none;color: grey;">Just for offer letter</a> |
+ <a href="/medical_test/" style="pointer-events: none;color: grey;">Medical Test</a> |
+ <a href="/loan/" style="pointer-events: none;color: grey;">Loan</a> |
+ <a href="/visa_process/" style="pointer-events: none;color: grey;">Visa Process</a> |
+ <a href="/ticket/" style="pointer-events: none;color: grey;">Tickets</a> |
+ <a href="/accomodation/" style="pointer-events: none;color: grey;">Accomodations</a> |
 </nav>
 
 ## General Topics
